@@ -6,6 +6,8 @@
     <br>  
     <label for="username"><b>user_name</b></label>
     <input type="text" placeholder="Enter user_name" name="username" id="username" required>
+    <label for="phone"><b>phone</b></label>
+    <input type="text" placeholder="Enter uphone_num" name="phonee_num" id="phone_num" required>
     <br>
     <br>
     <label for="email"><b>Email</b></label>
